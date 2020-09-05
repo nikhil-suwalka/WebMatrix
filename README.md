@@ -3,6 +3,7 @@
 * [About the Project](#about-the-project-heart)
 * [Tech Stack](#tech-stack-star)
 * [Usage](#usage)
+* [Maintainers](#maintainers)
 * [License](#license)
 
 
@@ -20,6 +21,14 @@ The application will bridge the gap between the donors and the organizations tha
 ## Usage
 
 Under Construction :)
+
+## Maintainers
+
+[Shruti](https://github.com/shrutibansal1802/)<br>
+[Riddhi](https://github.com/riddhisharma2000/)<br> 
+[Ishita](https://github.com/Ishita15112001/)<br>
+[Laxman](https://github.com/Laxmandas1745/)<br>
+[Pradhumn](https://github.com/davedevelopers/)
 
 ## Presentation Link
 
